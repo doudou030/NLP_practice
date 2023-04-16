@@ -4,3 +4,6 @@ Natural Language Processing practice code
 - 1-1 移除字串中的空白鍵和定位鍵
 - 1-2 英文斷詞
 - 1-3 字數統計
+
+## HW2 Digit_recognizer
+[kaggle上的數字辨識比賽](https://www.kaggle.com/competitions/digit-recognizer/overview)
