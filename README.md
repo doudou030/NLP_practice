@@ -7,3 +7,6 @@ Natural Language Processing practice code
 
 ## HW2 Digit_recognizer
 [kaggle上的數字辨識比賽](https://www.kaggle.com/competitions/digit-recognizer/overview)
+
+## Mid-term project
+[kaggle上的期中專題競賽](https://www.kaggle.com/competitions/ncnu-1112-nlp-midterm-project/overview)
